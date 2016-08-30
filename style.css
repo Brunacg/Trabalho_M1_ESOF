@@ -1,0 +1,28 @@
+body{
+	background-color: #ffb74d;
+}
+
+.row{
+	background-color: orange;
+}
+
+.fonte1{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 100px;
+}
+
+.fonte2{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 70px;
+}
+
+.fonte{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+}
+
+.image{
+	width: 1500px;
+}
